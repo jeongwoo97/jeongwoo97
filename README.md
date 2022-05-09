@@ -1,16 +1,21 @@
-### Hi there 👋
+### Kim Jeong Woo 👋
 
-<!--
-**jeongwoo97/jeongwoo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jeong Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-Here are some ideas to get you started:
+## 📖 Tech 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Html](https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white)](#)
+[![Css](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](#)
+
+[![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-teal?style=flat-square&logo=JAVA&logoColor=white)](#)
+
+
+[![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-skyblue?style=flat-square&logo=docker&logoColor=blue)](#)
+  
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlawjddn333@gmail.com)](mailto:rlawjddn333@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlawjddn333@naver.com)](mailto:rlawjddn333@naver.com)

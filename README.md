@@ -2,7 +2,7 @@
 
 ![Jeong Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-## 📖 Tech 
+## 📖 Tech Stacks 📖
 
 
 [![Html](https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white)](#)

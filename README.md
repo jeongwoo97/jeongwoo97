@@ -1,6 +1,7 @@
 ### Kim Jeong Woo 👋
 
 ![Jeong Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongwoo97&theme=aura&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwoo97&layout=compact&theme=aura&langs_count=9)]
 
 
 ## 📖 Tech Stack 📖
